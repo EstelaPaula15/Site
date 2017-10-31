@@ -6,7 +6,20 @@ No site teria uma parte especialmente para as meninas, que falaria por exemplo, 
 Teria também uma parte especialmente para os meninos, porque se criarmos meninos machistas e preconceituosos, teremos homens machistas e preconceituosos, por isso, a parte dedicada para os meninos falaria que a mulher é independente, e que pode fazer o que ela quiser, assim como o homem pode fazer o que ele quiser.
 
 * Como seria aplicado o site na sociedade?
-Professores de todas as escolas, ficariam sabendo do site, e apartir daí, passariam para os seus alunos, em discurssões em sala de aula. Os alunos veriam o site e depois isso discutiam entre sí.
+Professores de todas as escolas, ficariam sabendo do site, e apartir daí, passariam para os seus alunos, em discurssões em sala de aula. Os alunos veriam o site e no site conversariam e compartilhariam suas opiniões e ideias para acabar de uma vez por todas a violência contra a mulher.
 
 *Requisitos Funcionais :
+-Cadastro com seu e-mail
+- Fazer seu perfil
+- Publicar textos no site
+- Curtir, comentar e compartilhar os textos que os outros usuários postam.
+-Compartilhar os textos nas redes sociais.
+
+
+* Requisitos Não Funcionais:
+- Não pode ver informações pessoais de outro usuário, só o nome do Perfil.
+- Não poderá ver os métodos de segurança do site
+-Não poderá editar qualquer texto exposto no site.
+-Sérá atualizado todos os dias para que os novos textos fiquem expostos.
+
 
