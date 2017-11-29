@@ -9,17 +9,17 @@ Teria também uma parte especialmente para os meninos, porque se criarmos menino
 Professores de todas as escolas, ficariam sabendo do site, e apartir daí, passariam para os seus alunos, em discurssões em sala de aula. Os alunos veriam o site e no site conversariam e compartilhariam suas opiniões e ideias para acabar de uma vez por todas a violência contra a mulher.
 
 *Requisitos Funcionais :
--Cadastro com seu e-mail
-- Fazer seu perfil
-- Publicar textos no site
-- Curtir, comentar e compartilhar os textos que os outros usuários postam.
--Compartilhar os textos nas redes sociais.
+-O usuário irá fazer o cadastro com o seu e-mail
+- O usuário irá fazer seu perfil
+- O usuário irá publicar textos no site
+- O usuário poderá curtir, comentar e compartilhar os textos que os outros usuários postam.
+-O usuário poderá compartilhar os textos nas redes sociais.
 
 
 * Requisitos Não Funcionais:
-- Não pode ver informações pessoais de outro usuário, só o nome do Perfil.
-- Não poderá ver os métodos de segurança do site
--Não poderá editar qualquer texto exposto no site.
+- O usuário não poderá ver informações pessoais de outro usuário, só o nome do Perfil.
+- O usuário não poderá ver os métodos de segurança do site
+-O usuário não poderá editar qualquer texto exposto no site.
 
 
 
